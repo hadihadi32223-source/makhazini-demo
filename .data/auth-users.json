@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "full_name": "مدير النظام",
+    "username": "admin",
+    "role": "admin",
+    "role_name": "مدير النظام",
+    "password_hash": "pbkdf2_sha256$310000$2Q7dQY-lqLL2X1IHRc7KOA$rFxmVGPMH-HUy8Yi-hoAxZVdGlTFr5q3VY_R04HRXBY",
+    "status": "active",
+    "last_login_at": "2026-07-09T18:55:43.730Z",
+    "created_at": "2026-07-09T16:07:34.764Z"
+  },
+  {
+    "id": 2,
+    "full_name": "مدير المستودع",
+    "username": "warehouse.manager",
+    "role": "manager",
+    "role_name": "مدير المستودع",
+    "password_hash": "pbkdf2_sha256$310000$9wkW8c0vSfJT3BkZoGXzpw$zwdqkAbqt6DOlciKLVc4foijgb6tZm3ffh7U_ua4iCc",
+    "status": "active",
+    "last_login_at": null,
+    "created_at": "2026-07-09T16:07:34.764Z"
+  },
+  {
+    "id": 3,
+    "full_name": "أمين المستودع",
+    "username": "storekeeper",
+    "role": "storekeeper",
+    "role_name": "أمين المستودع",
+    "password_hash": "pbkdf2_sha256$310000$OHk4WvUVSYjSOLXsfNKA-Q$KApuYxwSVCrnvTI35q-kGF7Qw4wid_c7NwaueGLQfgI",
+    "status": "active",
+    "last_login_at": null,
+    "created_at": "2026-07-09T16:07:34.764Z"
+  },
+  {
+    "id": 4,
+    "full_name": "موظف إدخال البيانات",
+    "username": "data.entry",
+    "role": "data_entry",
+    "role_name": "موظف إدخال",
+    "password_hash": "pbkdf2_sha256$310000$gbK0F4sfsq5OSdWi0f5TMQ$T2OL7QGTcl2DHp_EEgYkPzUBIVUImKoek8bUdilDyHo",
+    "status": "active",
+    "last_login_at": null,
+    "created_at": "2026-07-09T16:07:34.764Z"
+  },
+  {
+    "id": 5,
+    "full_name": "مستخدم قراءة فقط",
+    "username": "readonly",
+    "role": "readonly",
+    "role_name": "قراءة فقط",
+    "password_hash": "pbkdf2_sha256$310000$PmdJHEHBU_-f6SmpU7ddjg$31mSJ65qcApu9546zZuppY4Jc_egwCCmEEj37OwjNTg",
+    "status": "active",
+    "last_login_at": null,
+    "created_at": "2026-07-09T16:07:34.764Z"
+  }
+]
